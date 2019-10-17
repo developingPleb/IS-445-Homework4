@@ -1,0 +1,13 @@
+/* setting the font size for the balloon */
+
+.ballon{
+    font-size: 30px;
+}
+
+/* positioning the balloon in the center of the page */
+
+p{
+    display: felx;
+    justify-content: center;
+    align-content: center;
+}
